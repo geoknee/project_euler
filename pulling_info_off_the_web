@@ -1,0 +1,37 @@
+# IPython log file
+
+import bs4
+soup=BeautifulSoup(http://projecteuler.net)
+soup=BeautifulSoup('http://projecteuler.net')
+soup=bs4.BeautifulSoup('http://projecteuler.net')
+print(soup.prettify())
+soup=bs4.BeautifulSoup(http://projecteuler.net)
+soup=bs4.BeautifulSoup('http://projecteuler.net')
+soup=bs4.BeautifulSoup('http://projecteuler.net/index.htm')
+soup
+pe12
+pe12=urllib.urlopen('http://projecteuler.net/problem=12')
+import urllib
+pe12=urllib.urlopen('http://projecteuler.net/problem=12')
+import bs4
+pe12soup=BeautifulSoup(pe12)
+pe12soup=bs4.BeautifulSoup(pe12)
+print(pe12soup.prettify())
+pe11=urllib.urlopen('http://projecteuler.net/problem=11')
+pe11soup=bs4.BeautifulSoup(pe11)
+print(pe11soup.prettify())
+pe11soup.p
+pe11soup.body
+pe11soup.p style
+pe11soup.get_text()
+print(pe11.get_text())
+print(pe11soup.get_text())
+log
+get_ipython().magic(u'logon')
+get_ipython().magic(u'logstart pulling_info_off_the_web')
+get_ipython().magic(u'logon')
+pe12=urllib.urlopen('http://projecteuler.net/problem=12')
+pe12soup=bs4.BeautifulSoup(pe12)
+print(pe12soup.get_text())
+pe12soup=bs4.BeautifulSoup(pe12) | pbcopy
+get_ipython().magic(u'logoff')
